@@ -1,5 +1,5 @@
 ---
-display_name: Google
+display_name: koryjarrell8@gmail.com
 github_url: https://github.com/google
 logo: google.png
 created_by: Larry Page, Sergey Brin
